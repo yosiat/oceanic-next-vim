@@ -29,7 +29,7 @@ hi Folded guifg=#65737e ctermfg=243 guibg=#1b2b34 ctermbg=235 gui=NONE
 
 
 
-hi Normal guifg=#cdd3de guibg=#1b2b34 ctermbg=235 guifg=188 gui=NONE cterm=NONE 
+hi Normal guifg=#cdd3de guibg=#1b2b34 ctermbg=235 ctermfg=188 
 hi Boolean guifg=#f99157 ctermfg=209 guibg=NONE gui=NONE
 hi Character guifg=#f99157 ctermfg=209 guibg=NONE gui=NONE
 hi Comment guifg=#65737e ctermfg=243 guibg=NONE gui=NONE
