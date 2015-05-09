@@ -46,12 +46,12 @@ hi Function guifg=#6699cc ctermfg=68 guibg=NONE gui=NONE
 hi Identifier guifg=#c594c5 ctermfg=176 guibg=NONE gui=NONE
 hi Keyword guifg=#c594c5 ctermfg=176 guibg=NONE gui=NONE
 hi Type guifg=#c594c5 ctermfg=176 guibg=NONE gui=NONE
+hi Special guifg=#6699cc ctermfg=68 guibg=NONE gui=italic
 hi Label guifg=#99c794 ctermfg=114 guibg=NONE gui=NONE
 hi NonText guifg=#65737e ctermfg=243 guibg=#24333d ctermbg=236 gui=NONE
 hi Number guifg=#f99157 ctermfg=209 guibg=NONE gui=NONE
 hi Operator guifg=#5fb3b3 ctermfg=73 guibg=NONE gui=NONE
 hi PreProc guifg=#c594c5 ctermfg=176 guibg=NONE gui=NONE
-hi Special guifg=#cdd3de ctermfg=188 guibg=NONE gui=NONE
 hi SpecialKey guifg=#65737e ctermfg=243 guibg=#2d3c45 ctermbg=237 gui=NONE
 hi Statement guifg=#c594c5 ctermfg=176 guibg=NONE gui=NONE
 hi StorageClass guifg=#c594c5 ctermfg=176 guibg=NONE gui=NONE
