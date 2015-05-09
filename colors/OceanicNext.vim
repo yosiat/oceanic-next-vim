@@ -12,7 +12,6 @@ let g:colors_name = "Oceanic Next"
 
 hi Cursor guifg=#1b2b34 ctermfg=235 guibg=#c0c5ce ctermbg=251 gui=NONE
 hi Visual guifg=NONE guibg=#4f5b66 ctermbg=240 gui=NONE
-hi CursorLine guifg=NONE guibg=#2d3c45 ctermbg=237 gui=NONE
 hi CursorColumn guifg=NONE guibg=#2d3c45 ctermbg=237 gui=NONE
 hi ColorColumn guifg=NONE guibg=#2d3c45 ctermbg=237 gui=NONE
 hi LineNr guifg=#747f89 ctermfg=8 guibg=#2d3c45 ctermbg=237 gui=NONE
