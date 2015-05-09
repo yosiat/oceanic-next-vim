@@ -45,6 +45,7 @@ hi Float guifg=#f99157 ctermfg=209 guibg=NONE gui=NONE
 hi Function guifg=#6699cc ctermfg=68 guibg=NONE gui=NONE
 hi Identifier guifg=#c594c5 ctermfg=176 guibg=NONE gui=NONE
 hi Keyword guifg=#c594c5 ctermfg=176 guibg=NONE gui=NONE
+hi Type guifg=#c594c5 ctermfg=176 guibg=NONE gui=NONE
 hi Label guifg=#99c794 ctermfg=114 guibg=NONE gui=NONE
 hi NonText guifg=#65737e ctermfg=243 guibg=#24333d ctermbg=236 gui=NONE
 hi Number guifg=#f99157 ctermfg=209 guibg=NONE gui=NONE
@@ -58,7 +59,6 @@ hi String guifg=#99c794 ctermfg=114 guibg=NONE gui=NONE
 hi Tag guifg=#eb606b ctermfg=167 guibg=NONE gui=NONE
 hi Title guifg=#cdd3de ctermfg=188 guibg=NONE gui=bold
 hi Todo guifg=#65737e ctermfg=243 guibg=NONE gui=inverse,bold
-hi Type guifg=NONE guibg=NONE gui=NONE
 hi Underlined guifg=NONE guibg=NONE gui=underline
 hi rubyClass guifg=#c594c5 ctermfg=176 guibg=NONE gui=NONE
 hi rubyFunction guifg=#6699cc ctermfg=68 guibg=NONE gui=NONE
