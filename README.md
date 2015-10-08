@@ -4,7 +4,7 @@
 
 ![](oceanic-next-vim.png)
 
-Using coloration [coloration](https://github.com/sickill/coloration) and [Vim-toCterm](shawnbiddle.com/Vim-toCterm/)
+Using [coloration](https://github.com/sickill/coloration) and [Vim-toCterm](shawnbiddle.com/Vim-toCterm/)
 
 ### Installation
 
