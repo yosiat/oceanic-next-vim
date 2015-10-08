@@ -1,20 +1,26 @@
-# Oceanic Next
+# oceanic-next-vim
 
-Port to vim from - https://github.com/voronianski/oceanic-next-theme
+> Port to Vim from [oceanic-next-theme](https://github.com/voronianski/oceanic-next-theme)
 
-Using coloration (https://github.com/sickill/coloration) and Vim-toCtrem (shawnbiddle.com/Vim-toCterm/)
+![](oceanic-next-vim.png)
 
+Using [coloration](https://github.com/sickill/coloration) and [Vim-toCterm](shawnbiddle.com/Vim-toCterm/)
 
 ### Installation
 
 #### Vundle
+
 Place this in your .vimrc:
+
 ```
 Plugin 'yosiat/oceanic-next-vim'
+
+colorscheme OceanicNext
 ```
-then run the following in Vim:
+
+Then run the following in Vim:
+
 ```
 :source %
 :PluginInstall
 ```
-
