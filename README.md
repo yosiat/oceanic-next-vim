@@ -24,3 +24,9 @@ Then run the following in Vim:
 :source %
 :PluginInstall
 ```
+
+#### pathogen
+```
+cd ~/.vim/bundle
+git clone git@github.com:yosiat/oceanic-next-vim.git
+```
