@@ -1,4 +1,8 @@
+# This project is depercated, please use https://github.com/mhartington/oceanic-next
+
+
 # oceanic-next-vim
+
 
 > Port to Vim from [oceanic-next-theme](https://github.com/voronianski/oceanic-next-theme)
 
